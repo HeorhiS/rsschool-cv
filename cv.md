@@ -2,11 +2,11 @@
                                                                                                     
 ![Image alt](https://github.com/HeorhiS/-HeorhiSDZ1/raw/@HeorhiS_dz1/photo.png)
 # **Heorhi Sorokin**
-***************************************
+***
 # **Contacts:**
 * *phone number* **(33) 320-97-04**
 * *Discord name* **Heorhi (@HeorhiS)**
-***************************************
+***
 # **Short info about me:**
 
 1. **Goals:**
@@ -23,7 +23,24 @@
 * *The ability to find a way out in a difficult situation*
 * *The desire to learn and comprehend new things*
 
-4. **Work experience:**
+4. **Skills:**
+* *At the moment I'm taking a preparatory course "JavaScript/Front-end. Stage 0" in the online school RSSchool.*
+* **Example of my code**
+```
+function multiply(a, b) {
+ return a * b;
+}
+```   
+[**Task when registering on Codewars**][https://www.codewars.com/users/Heorhi.S/completed_solutions]
+
+5. **Work experience:**
 * *I have no experience in this profession, but I can say that I really like this profession, because I am a creative person by nature, and programming in a sense allows you to create, create very interesting things out of nothing. I also know that this work involves finding solutions, I like to dive into the very essence of the problem in order to understand its solution, it's interesting. Now I work as a quality control specialist in a large company specializing in wholesale trade.*
-***********************************************************************************************************************************************************************
+
+6. **Education:**
+* *Minsk State Trade College*
+
+7. **English level**
+* Upper-Intermediate
+
+
 
